@@ -1,0 +1,10 @@
+
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¯°ô‰úÿÿÿÿ8ôÚ˜û1
+L	java:S106"+Replace this use of System.out by a logger.(¯°ô‰úÿÿÿÿ8¹ú’û1
+G	java:S106"+Replace this use of System.out by a logger.(óÌì–8²ğ”û1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ç¹×üøÿÿÿÿ8–Ùœû1
+L	java:S106"+Replace this use of System.out by a logger.(Ç¹×üøÿÿÿÿ8ˆì›û1
+R
+java:S1128"0Remove this unused import 'java.util.Formatter'.(±¤ğÃùÿÿÿÿ8ì™—ƒ2

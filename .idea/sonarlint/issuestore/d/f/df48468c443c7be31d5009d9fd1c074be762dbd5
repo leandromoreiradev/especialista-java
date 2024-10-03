@@ -1,0 +1,17 @@
+
+b
+java:S2184"@Cast one of the operands of this addition operation to a "long".(è§‰İûÿÿÿÿ8µÔ¯ƒ2
+W
+java:S1854"5Remove this useless assignment to local variable "c".(è§‰İûÿÿÿÿ8»Ô¯ƒ2
+W
+java:S1854"5Remove this useless assignment to local variable "y".(¡êŸ¢úÿÿÿÿ8Çì­ƒ2
+W
+java:S1854"5Remove this useless assignment to local variable "x".(ï‰Àùÿÿÿÿ8Çì­ƒ2
+H
+java:S1481"&Remove this unused "x" local variable.(ï‰Àùÿÿÿÿ8Èì­ƒ2
+H
+java:S1481"&Remove this unused "y" local variable.(¡êŸ¢úÿÿÿÿ8Éì­ƒ2
+X	java:S125	"<This block of commented-out lines of code should be removed.(ƒëÿ×8Éì­ƒ2
+H
+java:S1481"&Remove this unused "c" local variable.(è§‰İûÿÿÿÿ8¾Ô¯ƒ2
+G	java:S106"+Replace this use of System.out by a logger.(­ –8Êì­ƒ2
